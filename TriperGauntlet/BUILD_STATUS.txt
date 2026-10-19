@@ -1,0 +1,2 @@
+BUILD NOT RUN / NOT VERIFIED
+Reason: environment has OpenJDK 21 only (Minecraft 26.2 needs Java 25), Gradle is not installed, and outbound DNS/network access is unavailable. No compiled mod JAR is included. The ZIP contains source and pack files to build locally.

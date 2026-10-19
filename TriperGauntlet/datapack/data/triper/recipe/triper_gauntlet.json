@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:crossbow",
+    "minecraft:gold_ingot",
+    "minecraft:leather",
+    "minecraft:string",
+    "triper:black_substance_block"
+  ],
+  "result": {
+    "id": "triper:triper_gauntlet",
+    "count": 1
+  }
+}

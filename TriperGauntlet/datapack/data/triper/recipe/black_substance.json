@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SSS", "SNS", "SSS"],
+  "key": {
+    "S": "minecraft:slime_ball",
+    "N": "minecraft:netherite_block"
+  },
+  "result": {
+    "id": "triper:black_substance_block",
+    "count": 1
+  }
+}
